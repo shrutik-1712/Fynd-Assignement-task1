@@ -1,9 +1,8 @@
 
-```markdown
 
 # Fynd assigment Task - 1
 
-# Rating Prediction AI Microservice
+## Rating Prediction AI Microservice
 
 ## 📂 Project Structure
 - **AI_microservice/**
@@ -30,18 +29,10 @@
   - Results are saved in `explaination.md`.
 
 - **results/**  
-  - Contains outputs, including comparison tables and chats from different AI models used during the process.
+  - Contains results chats from different AI models used during the process.
 
 - **requirements.txt**  
-  - Lists all dependencies needed to run the project:
-    ```
-    fastapi
-    uvicorn
-    requests
-    pandas
-    python-dotenv
-    openai
-    ```
+    
 
 ---
 
