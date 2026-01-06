@@ -80,11 +80,3 @@
 - **explaination.md**: Contains explanations and comparisons between different system prompts.  
 - **results/**: Includes saved tables and AI chat logs for reference.
 
----
-
-## 📝 Notes
-- Ensure you have your environment variables (e.g., API keys) set up in `.env`.  
-- The microservice requires both `system_prompt` and `review` fields in the request.  
-- Sampling ensures balanced evaluation across star ratings (1–5).  
-- Comparisons between prompts are documented in `explaination.md` and summarized in `results/`.
-```
