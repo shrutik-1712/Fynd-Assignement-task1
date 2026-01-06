@@ -1,0 +1,8 @@
+(env) PS C:\Users\Shrutik\Desktop\python Projects\Fynd - assigments\Rating-Prediction> python .\readCsv.py
+
+
+Index(['business_id', 'date', 'review_id', 'stars', 'text', 'type', 'user_id',
+       'cool', 'useful', 'funny'],
+      dtype='object')
+
+
